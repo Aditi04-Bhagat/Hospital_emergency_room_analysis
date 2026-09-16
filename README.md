@@ -52,5 +52,5 @@ This project demonstrates practical skills in:
 * Excel
 * Power Query
 * Business insight generation
-* 
+
 
